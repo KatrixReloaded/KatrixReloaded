@@ -3,7 +3,7 @@ I’m currently working in SecureDApp<br> I’m currently learning Echidna and H
 
 
 ## Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/alisha-bandyopadhyay) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kartikeya-sureka-b596501ab/) 
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=KatrixReloaded&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
