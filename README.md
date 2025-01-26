@@ -1,5 +1,5 @@
 # About Me:
-I’m currently working in SecureDApp<br> I’m currently learning Echidna and Huff  
+I’m currently open to work<br> I’m currently learning Echidna    
 
 
 ## Socials:
