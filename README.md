@@ -1,5 +1,5 @@
 # About Me:
-I’m currently open to work<br> I’m currently learning Echidna    
+I’m currently working at Catalog<br> I’m currently learning Echidna    
 
 
 ## Socials:
